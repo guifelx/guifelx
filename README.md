@@ -8,5 +8,5 @@
 - 💬 You can reach me on: www.linkedin.com/in/felixguilherme 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+<img height="20%" width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
           
