@@ -5,4 +5,4 @@
 
 - 🌱 I'm currently learning C#, .NET and SQL 
 
-- 💬 You can reach me on www.linkedin.com/in/felixguilherme 
+- 💬 You can reach me on: www.linkedin.com/in/felixguilherme 
