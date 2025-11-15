@@ -1,9 +1,9 @@
 
 - 😊 Hello! My name is Guilherme! Welcome to my Github profile! 
 
-- 📚 I'm a IT student and also a Chemist!
+- 📚 I'm a Full Stack Developer!
 
-- 🌱 I'm currently learning web development technolgies.
+- 🌱 I'm currently working with web development technolgies, specially with ASP.NET and Angular.
 
 - 💬 You can reach me on: www.linkedin.com/in/felixguilherme 
 
